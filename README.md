@@ -8,6 +8,10 @@
 <summary><H3>Arduino Nano</H3></summary>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Arduino-nano-pinout.png"  />
 </details>
+    <details>
+<summary><H3>Arduino Mega</H3></summary>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Arduino-mega-pinout.png"  />
+</details>
 </div>
 
 
