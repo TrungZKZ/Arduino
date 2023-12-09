@@ -13,6 +13,7 @@
     <details>
 <summary><H3>Arduino Mega</H3></summary>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Arduino-mega-pinout.png"  />
+          <a href="https://docs.arduino.cc/resources/datasheets/A000067-datasheet.pdf">DATASHEET</a>
 </details>
 </div>
 
