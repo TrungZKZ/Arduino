@@ -3,6 +3,7 @@
   <details>
 <summary><H3>Arduino Uno R3</H3></summary>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Pinout_of_ARDUINO_Board_and_ATMega328PU.svg"  />
+    <a href="https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf">DATASHEET</a>
 </details>
   <details>
 <summary><H3>Arduino Nano</H3></summary>
