@@ -7,6 +7,7 @@
   <details>
 <summary><H3>Arduino Nano</H3></summary>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Arduino-nano-pinout.png"  />
+    <a href="https://docs.arduino.cc/resources/datasheets/A000005-datasheet.pdf">DATASHEET</a>
 </details>
     <details>
 <summary><H3>Arduino Mega</H3></summary>
