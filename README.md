@@ -6,7 +6,7 @@
 </details>
   <details>
 <summary><H3>Arduino Nano</H3></summary>
-  <img src="https://docs.arduino.cc/static/aea75b21cea87290ef2ed4e783b336ef/A000005-pinout.png"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Arduino-nano-pinout.png"  />
 </details>
 </div>
 
